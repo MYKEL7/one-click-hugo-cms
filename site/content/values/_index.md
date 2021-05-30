@@ -2,11 +2,15 @@
 title: OUTLETS
 image: img/african-farmer-man-holding-pineapple-banana-organic-farm-with-smile-happy-agriculture-cultivation-concept_73622-1403.jpeg
 values:
-  - heading: Valued Farmers
+  - heading: Jos, Plateau State
     text: >
-      Our Farmers are valued because they do their best to provide the best food
-      supplies. Our trainings, rewards, commissions all show that we value them.
-    imageUrl: img/african-agri.jpeg
+      Our largest outlet is in the cold suburbs of Jos plateau state Nigeria,
+      where we observed and monitor farmers from planting to harvest. we ensure
+      that our organic practices are strictly adhered to and from here we ship
+      to all parts of Africa. A huge variety of strawberries, plums, grapes,
+      apples, mangoes are grown here because of the unique cold weather in this
+      region. You can schedule a tour here anytime you like.
+    imageUrl: img/jos-farm.jpg
   - heading: Customer Satisfaction
     text: >
       All we need is a smile on your face every single time. Our Customer
