@@ -7,16 +7,18 @@ values:
       Our largest outlet is in the cold suburbs of Jos plateau state Nigeria,
       where we observed and monitor farmers from planting to harvest. we ensure
       that our organic practices are strictly adhered to and from here we ship
-      to all parts of Africa. A huge variety of strawberries, plums, grapes,
+      to all parts of Nigeria. A huge variety of strawberries, plums, grapes,
       apples, mangoes are grown here because of the unique cold weather in this
       region. You can schedule a tour here anytime you like.
     imageUrl: img/jos-farm.jpg
-  - heading: Customer Satisfaction
+  - heading: Benue, Markurdi
     text: >
-      All we need is a smile on your face every single time. Our Customer
-      service team make sure you are satisfied our delivery team ensures that
-      your deliveries get to you as soon as possible.
-    imageUrl: img/shf-4.jpeg
+      Benue is known as the food basket of the nation. It is rich with crops and
+      a majority of the population are farmers. With out training and tutoring,
+      the farmers here have grown to produce rich agricultural produce. We
+      monitor here to ensure they serve you the best. We have several outlets
+      from which we ship to anywhere in Nigeria.
+    imageUrl: img/benue-farmers.jpg
   - heading: Sustainable Agriculture
     text: >
       Sustainable farming is very important to our value and we grossly refuse
