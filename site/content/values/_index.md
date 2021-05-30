@@ -1,45 +1,23 @@
 ---
-title: "Values"
-image: /img/about-jumbotron.jpg
+title: VALUES
+image: img/african-farmer-man-holding-pineapple-banana-organic-farm-with-smile-happy-agriculture-cultivation-concept_73622-1403.jpeg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: Valued Farmers
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+      Our Farmers are valued because they do their best to provide the best food
+      supplies. Our trainings, rewards, commissions all show that we value them.
+    imageUrl: img/african-agri.jpeg
+  - heading: Customer Satisfaction
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+      All we need is a smile on your face every single time. Our Customer
+      service team make sure you are satisfied our delivery team ensures that
+      your deliveries get to you as soon as possible.
+    imageUrl: img/shf-4.jpeg
+  - heading: Sustainable Agriculture
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+      Sustainable farming is very important to our value and we grossly refuse
+      bush burning, the use of chemicals and pesticides. We know this is
+      terrible to our environment and so try to make sure our crops are organic
+      and sustainable to our environment
+    imageUrl: img/farming.jpg
 ---

@@ -1,26 +1,22 @@
 ---
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
-description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
-image: /img/blog-chemex.jpg
+title: "A beginners’ guide to the perfect shopping plan "
+date: 2021-05-30T16:00:11.196Z
+description: Having to shop every month for food supplies can be a routine task
+  that can be very demanding. But with the right effort and tools, this daunting
+  task can be very rewarding.
+image: img/shf-4.jpeg
 ---
+Every week, some food stuff gets finished at home and towards the end, the empty cupboards and dusty pantry make it seem like you never went shopping early in the month. This cycle continues monthly and so does the stress. Busy moms can testify that this chore is mentally stressful and demanding too.  
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+Here is how you can make it rewarding.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+## Our little secrets of a good shopping Routine
 
-## The little secrets of Chemex brewing
+Here’s three important tips you need to make that routine effortless:
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+1. Write down a list of all the food supplies you need monthly.
+2. Put them into categories. e.g. Cereals, Vegetables, grains.
+3. Write down a list of items you need every month.
+4. Upload your list to our app and check for prices.
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
-
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+Our App will handle all of the reminders and you do not have to write your shopping list again. Just check our app and see what is finished and prompt us for a restock. Its that simple.

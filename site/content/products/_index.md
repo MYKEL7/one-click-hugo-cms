@@ -20,11 +20,13 @@ intro:
     - image: img/megan-thomas-xmh_ww8hn_q-unsplash.jpg
       text: "Several Varieties of Veggies and greens are on our mart as well. Just
         name it and you will have it at your doorstep in 24hrs max. "
-    - image: img/about-single-origin.jpg
-      text: >
-        We believe that good fruits has the ability to increase your life span.
-        that is why we cultivate the best of fruits to nourish you and keep you
-        healthy.
+    - image: img/catfish.png
+      text: We offer the best range of fishes from our sustainable fish farm. Catfish,
+        Mackerel, kote are all available to shop at an unbeatable price
+    - image: img/fruits.jpg
+      text: We have the absolute best wide range fruits grown locally by our farmers.
+        Fresh and nutritious. From apples to strawberries to bananas to plums.
+        You would be lost for choice
   heading: What we offer
   description: >
     What ever you need can be gotten here at Royalty Food Mart just with the
