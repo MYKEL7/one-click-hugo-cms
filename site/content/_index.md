@@ -1,5 +1,5 @@
 ---
-title: Organic Food Mart
+title: Delivering the best of Organic farm produce in Africa
 subtitle: Fresh. Healthy. Organic
 image: img/farmer-couple.jpeg
 blurb:
