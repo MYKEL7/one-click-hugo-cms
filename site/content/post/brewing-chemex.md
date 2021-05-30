@@ -10,7 +10,7 @@ Every week, some food stuff gets finished at home and towards the end, the empty
 
 Here is how you can make it rewarding.
 
-## The little secrets of Shopping Routine
+## Our little secrets of a good shopping Routine
 
 Here’s three important tips you need to make that routine effortless:
 
@@ -19,6 +19,4 @@ Here’s three important tips you need to make that routine effortless:
 3. Write down a list of items you need every month.
 4. Upload your list to our app and check for prices.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+Our App will handle all of the reminders and you do not have to write your shopping list again. Just check our app and see what is finished and prompt us for a restock. Its that simple.
