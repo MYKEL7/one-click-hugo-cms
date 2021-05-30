@@ -1,6 +1,6 @@
 ---
 title: VALUES
-image: img/best-price.png
+image: img/african-farmer-man-holding-pineapple-banana-organic-farm-with-smile-happy-agriculture-cultivation-concept_73622-1403.jpeg
 values:
   - heading: Shade-grown coffee
     text: >
