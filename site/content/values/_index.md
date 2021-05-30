@@ -7,13 +7,12 @@ values:
       Our Farmers are valued because they do their best to provide the best food
       supplies. Our trainings, rewards, commissions all show that we value them.
     imageUrl: img/african-agri.jpeg
-  - heading: Single origin
+  - heading: Customer Satisfaction
     text: >
-      Single-origin coffee is coffee grown within a single known geographic
-      origin. Sometimes, this is a single farm or a specific collection of beans
-      from a single country. The name of the coffee is then usually the place it
-      was grown to whatever degree available.
-    imageUrl: /img/about-single-origin.jpg
+      All we need is a smile on your face every single time. Our Customer
+      service team make sure you are satisfied our delivery team ensures that
+      your deliveries get to you as soon as possible.
+    imageUrl: img/shf-4.jpeg
   - heading: Sustainable farming
     text: >
       Sustainable agriculture is farming in sustainable ways based on an
