@@ -24,7 +24,7 @@ intro:
       text: >
         We believe that good fruits has the ability to increase your life span.
         that is why we cultivate the best of fruits to nourish you and keep you
-        healthy
+        healthy.
   heading: What we offer
   description: >
     What ever you need can be gotten here at Royalty Food Mart just with the
@@ -42,7 +42,7 @@ main:
     we empower a farmer, we also make a customer happier by giving them time to
     what they love the most.
   image1:
-    alt: Ffarmer with pineapple
+    alt: Farmer with pineapple
     image: img/african-farmer-man-holding-pineapple-banana-organic-farm-with-smile-happy-agriculture-cultivation-concept_73622-1403.jpeg
   image2:
     alt: Agric farmer
@@ -54,9 +54,9 @@ testimonials:
   - author: Grace Shokoye
     quote: Organic food mart has completely eliminated the stress of shopping for me
       and my Family. I can't do without them
-  - author: James Stephenson
-    quote: The Best food mart in the world. Great prices, great customer service,
-      fast delivery. I will shop here over and over again.money
+  - author: James Adire
+    quote: The Best food mart in the world. Great prices, great customer service and
+      fast delivery. I will shop here over and over again."
 full_image: img/smiling-farmers.jpeg
 pricing:
   heading: Monthly Shopping Plans
@@ -70,16 +70,16 @@ pricing:
         - 5 Yam and 2plantain tubers
         - Fresh Tomatoes and peppers
       plan: Silver
-      price: 25k
+      price: 45k
     - description: Perfect for a family of 4-6persons
       items:
         - 25kg of Rice and 15kg of honey beans per month
         - 10 Yams and 5plantain tubers plus freshly harvested Potatoes
         - Fresh Tomatoes and peppers
       plan: Gold
-      price: 48k
+      price: 72k
     - plan: Platinum
-      price: 70k
+      price: 100k
       description: Great for a large family of 6 or more
       items:
         - 50kg of Rice and 25kg of honey beans per month
