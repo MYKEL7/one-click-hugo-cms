@@ -8,7 +8,7 @@ blurb:
     We care what you eat!
 
 
-    Eating healthy should mean eating fresh and that's what we do, we provide fresh fruits to our customers
+    Eating healthy should mean eating fresh and that's what we do, we provide fresh fruits to our customers.
 intro:
   heading: What we offer
   text: Organic food mart offers fresh fruit straight from our farms, to the food
