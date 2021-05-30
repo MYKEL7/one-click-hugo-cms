@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-logo: img/logo.png
+logo: img/83-removebg-preview.png
 contact_entries:
   - heading: "We are open "
     text: |-
