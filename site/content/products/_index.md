@@ -27,10 +27,10 @@ intro:
         healthy
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    What ever you need can be gotten here at Royalty Food Mart just with the
+    click of a button. From fresh fruits and vegetables to yam and plantain
+    tubers to Rice and Beans e.t.c Just Search, Click and Pay and you would have
+    your order at your doorstep within 24hrs. Yes! We are that good.
 main:
   heading: Farmers that produce only the best
   description: >
