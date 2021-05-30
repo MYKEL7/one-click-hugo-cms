@@ -8,33 +8,23 @@ description: What ever you need can be gotten here at Royalty Food Mart just
   would have your order at your doorstep within 24hrs. Yes! We are that good
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: img/potatoes-2.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations-coffee-gear.svg
+        We sell different varieties of sweet and Irish potatoes, freshly
+        harvested from our local farmers. Our Potatoes are pesticide and
+        chemical free and very delicious too. 
+    - image: img/rice-1.jpeg
+      text: Our locally produced stone-free, dirt-Free, long grain white rice is our
+        best seller. No wonder every home just cant get enough of it. We sell at
+        least 100bags daily. No kidding!
+    - image: img/megan-thomas-xmh_ww8hn_q-unsplash.jpg
+      text: "Several Varieties of Veggies and greens are on our mart as well. Just
+        name it and you will have it at your doorstep in 24hrs max. "
+    - image: img/about-single-origin.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        We believe that good fruits has the ability to increase your life span.
+        that is why we cultivate the best of fruits to nourish you and keep you
+        healthy
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -42,55 +32,58 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Farmers that produce only the best
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    We are driving a chain of customer-centric food farmers who take the time to
+    produce raw food through a sustainable way. We are also putting an end to
+    those needless and time-consuming rides to the market and creating an avenue
+    where you can shop in peace from the comfort of your home The amazing part
+    is that you are satisfied and the farmer is as well because together while
+    we empower a farmer, we also make a customer happier by giving them time to
+    what they love the most.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Ffarmer with pineapple
+    image: img/african-farmer-man-holding-pineapple-banana-organic-farm-with-smile-happy-agriculture-cultivation-concept_73622-1403.jpeg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Agric farmer
+    image: img/african-agri.jpeg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: farmer couple
+    image: img/farmer-couple.jpeg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+  - author: Grace Shokoye
+    quote: Organic food mart has completely eliminated the stress of shopping for me
+      and my Family. I can't do without them
+  - author: James Stephenson
+    quote: The Best food mart in the world. Great prices, great customer service,
+      fast delivery. I will shop here over and over again.money
+full_image: img/smiling-farmers.jpeg
 pricing:
-  heading: Monthly subscriptions
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
+  heading: Monthly Shopping Plans
+  description: To make life even make this easier, we have come up with our
+    monthly shopping plans. Choose one of our monthly shopping plans to receive
+    your fresh food supplies at your doorstep on the 25th of each month.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Great for Family of 1-4 persons
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: "50"
-    - description: Great for avid drinkers, java-nsoving couples and bigger crowds
+        - 15kg of Rice and 10kg of honey beans per month
+        - 5 Yam and 2plantain tubers
+        - Fresh Tomatoes and peppers
+      plan: Silver
+      price: 25k
+    - description: Perfect for a family of 4-6persons
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: "80"
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - 25kg of Rice and 15kg of honey beans per month
+        - 10 Yams and 5plantain tubers plus freshly harvested Potatoes
+        - Fresh Tomatoes and peppers
+      plan: Gold
+      price: 48k
+    - plan: Platinum
+      price: 70k
+      description: Great for a large family of 6 or more
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: "?"
+        - 50kg of Rice and 25kg of honey beans per month
+        - 20 Yams and Sweet Potatoes and 10plantain tubers
+        - Unlimited Fresh Tomatoes and peppers
 type: products
 ---
