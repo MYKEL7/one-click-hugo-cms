@@ -8,29 +8,23 @@ blurb:
     We care what you eat!
 
 
-    Eating healthy should mean eating fresh. 
-
-
-    Organic food mart provides fresh fruit straight from the farm to the food market and then to the customers.
+    Eating healthy should mean eating fresh and that's what we do, we provide fresh fruits to our customers
 intro:
-  heading: How we work
-  text: "Organic food mart is "
+  heading: What we offer
+  text: Organic food mart offers fresh fruit straight from our farms, to the food
+    market and then to you; our customers.
 products:
-  - image: img/smiling-farmers.jpeg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: img/african-farmer-man-holding-pineapple-banana-organic-farm-with-smile-happy-agriculture-cultivation-concept_73622-1403.jpeg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  - image: img/cabbage.jpeg
+    text: Cabbages
+  - image: img/fresh-potatoes-e1587507583854.jpeg
+    text: Potatoes
 values:
   heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  text: >-
+    Fruits and vegetables are an amazing part of our lives, that's why we
+    believe in giving you the best quality of fruits and vegetables by serving
+    you the freshest fruits and vegetables you can possibly get.
+
+
+    We believe what’s inside matters — whether you’re talking about a salad or a smoothie, our goal is to bring you as close to perfection as we can.
 ---
