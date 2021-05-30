@@ -1,5 +1,5 @@
 ---
-title: Delivering the best of Organic farm produce in Africa
+title: Delivering the best of Organic farm produce in Nigeria
 subtitle: Fresh. Healthy. Organic
 image: img/megan-thomas-xmh_ww8hn_q-unsplash.jpg
 blurb:
