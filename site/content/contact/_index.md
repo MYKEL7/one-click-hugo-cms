@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-logo: img/greenshop-logo.jpeg
+logo: img/logo.png
 contact_entries:
   - heading: "We are open "
     text: |-
