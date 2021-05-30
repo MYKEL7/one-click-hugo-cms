@@ -23,6 +23,10 @@ intro:
     - image: img/catfish.png
       text: We offer the best range of fishes from our sustainable fish farm. Catfish,
         Mackerel, kote are all available to shop at an unbeatable price
+    - image: img/fruits.jpg
+      text: We have the absolute best wide range fruits grown locally by our farmers.
+        Fresh and nutritious. From apples to strawberries to bananas to plums.
+        You would be lost for choice
   heading: What we offer
   description: >
     What ever you need can be gotten here at Royalty Food Mart just with the
