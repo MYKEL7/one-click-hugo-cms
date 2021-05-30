@@ -8,7 +8,7 @@ blurb:
     We care what you eat!
 
 
-    Eating healthy should mean eating fresh and that's what we do, we provide fresh fruits to our customers.
+    Eating healthy should mean eating fresh and that's what we do, we provide fresh fruits to our customers
 intro:
   heading: What we offer
   text: Organic food mart offers fresh fruit straight from our farms, to the food
@@ -18,8 +18,10 @@ products:
     text: Cabbages
   - image: img/fresh-potatoes-e1587507583854.jpeg
     text: Potatoes
-  - image: img/rice-1.jpeg
-    text: Rice
+  - image: img/fruits.jpg
+    text: Fruits
+  - image: img/shf-4.jpeg
+    text: "Home delivery "
 values:
   heading: Our values
   text: >-
