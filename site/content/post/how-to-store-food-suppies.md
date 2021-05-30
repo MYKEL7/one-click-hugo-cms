@@ -1,5 +1,5 @@
 ---
-title: How to Store Food Suppies
+title: How to Store Food Supplies
 date: 2021-05-30T19:02:09.456Z
 description: Don't let your food supplies get spoilt. Learn how to store them here
 image: img/food-storage.jpg
