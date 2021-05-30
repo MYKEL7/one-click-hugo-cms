@@ -19,11 +19,12 @@ values:
       monitor here to ensure they serve you the best. We have several outlets
       from which we ship to anywhere in Nigeria.
     imageUrl: img/benue-farmers.jpg
-  - heading: Sustainable Agriculture
+  - heading: Ogun State
     text: >
-      Sustainable farming is very important to our value and we grossly refuse
-      bush burning, the use of chemicals and pesticides. We know this is
-      terrible to our environment and so try to make sure our crops are organic
-      and sustainable to our environment
-    imageUrl: img/farming.jpg
+      This is the seat of our animal husbandry outlet, where we rear goats,
+      cows, free range birds, fishes, ostrich, pigs, snails and a host of other
+      animals. This outlet is seated on a 50acre land mass and supplies most of
+      our meat need to satisfy all our customers. You can schedule a tour to see
+      our facility anytime.
+    imageUrl: img/animal.jpg
 ---
