@@ -3,7 +3,7 @@ title: Organic Food Mart
 subtitle: Fresh. Healthy. Organic
 image: img/cabbage.jpeg
 blurb:
-  heading: Why Food Mart?
+  heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
