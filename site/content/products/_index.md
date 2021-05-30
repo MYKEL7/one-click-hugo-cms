@@ -8,7 +8,7 @@ description: What ever you need can be gotten here at Royalty Food Mart just
   would have your order at your doorstep within 24hrs. Yes! We are that good
 intro:
   blurbs:
-    - image: img/fresh-potatoes-e1587507583854.jpeg
+    - image: img/potatoes-2.jpg
       text: >
         We sell different varieties of sweet and Irish potatoes, freshly
         harvested from our local farmers. Our Potatoes are pesticide and
