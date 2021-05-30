@@ -18,6 +18,8 @@ products:
     text: Cabbages
   - image: img/fresh-potatoes-e1587507583854.jpeg
     text: Potatoes
+  - image: img/rice-1.jpeg
+    text: Rice
 values:
   heading: Our values
   text: >-
