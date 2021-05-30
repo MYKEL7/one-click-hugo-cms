@@ -1,7 +1,7 @@
 ---
 title: Delivering the best of Organic farm produce in Africa
 subtitle: Fresh. Healthy. Organic
-image: img/farmer-couple.jpeg
+image: img/megan-thomas-xmh_ww8hn_q-unsplash.jpg
 blurb:
   heading: Why Royalty Food Mart?
   text: Royalty Food Mart is your one stop shop for all your household food
