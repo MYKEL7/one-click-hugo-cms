@@ -1,6 +1,6 @@
 ---
 title: VALUES
-image: img/fio-banner-2.jpeg
+image: img/best-price.png
 values:
   - heading: Shade-grown coffee
     text: >
