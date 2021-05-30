@@ -1,7 +1,8 @@
 ---
 title: How to Store Food Supplies
 date: 2021-05-30T19:02:09.456Z
-description: Don't let your food supplies get spoilt. Learn how to store them here
+description: Don't let your food supplies get spoilt. Read about how to store
+  them in this post
 image: img/food-storage.jpg
 ---
 It is so annoying to spend so much and have those precious supplies get spoilt because of improper storage.
