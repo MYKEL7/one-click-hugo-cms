@@ -2,12 +2,12 @@
 title: Contact Us
 logo: img/greenshop-logo.jpeg
 contact_entries:
-  - heading: Location
-    text: Lagos, Nigeria.
   - heading: "We are open "
     text: |-
       Monday – Saturday: 9AM – 5PM 
       We’re closed on Sundays
+  - heading: Location
+    text: Lagos, Nigeria.
 ---
 Please get in touch with us, we would love to hear from you.
 
